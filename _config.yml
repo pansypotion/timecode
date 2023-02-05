@@ -28,13 +28,33 @@ your_name: wemake.services
 email: mail@sobolevn.me
 
 navigation:
-  - text: Home
-    url: /
-  - text: Docs
+  - text: 立春 ○
     url: /docs
-  - text: Examples
+  - text: 雨水
     url: /examples
-
+  - text: 惊蛰
+  - text: 春分
+  - text: 清明
+  - text: 谷雨
+  - text: 立夏
+  - text: 小满
+  - text: 芒种
+  - text: 夏至
+  - text: 小暑
+  - text: 大暑
+  - text: 立秋
+  - text: 处暑
+  - text: 白露
+  - text: 秋分
+  - text: 寒露
+  - text: 霜降
+  - text: 立冬
+  - text: 小雪
+  - text: 大雪
+  - text: 冬至
+  - text: 小寒
+  - text: 大寒
+    
 projects:
   - name: git-secret
     description: A bash-tool to store your private data inside a git repository.
