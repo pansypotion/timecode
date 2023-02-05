@@ -29,9 +29,8 @@ email: mail@sobolevn.me
 
 navigation:
   - text: 立春 ●
-    url: /132
+    url: /lichun
   - text: 雨水  ○
-    url: /examples
   - text: 惊蛰   ○
   - text: 春分    ○
   - text: 清明     ○
