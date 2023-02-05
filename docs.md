@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: docs
+permalink: 0204
 ---
 
 # 立春
