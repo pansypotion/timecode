@@ -10,7 +10,7 @@ title: treasure hunt
 description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
 repository: https://github.com/wemake-services/jekyll-theme-hackcss
-baseurl: /jekyll-theme-hackcss  # the subpath of your site, e.g. /blog
+baseurl: /2023  # the subpath of your site, e.g. /blog
 url: https://wemake-services.github.io  # the base hostname & protocol for your site
 
 # Build settings
@@ -43,15 +43,15 @@ navigation:
   - text: 小暑           ○
   - text: 大暑            ○
   - text: 立秋             ○
-  - text: 处暑              ○
-  - text: 白露               ○
-  - text: 秋分                ○
-  - text: 寒露                 ○
-  - text: 霜降                  ○
-  - text: 立冬                   ○
-  - text: 小雪                    ○
-  - text: 大雪                     ○
-  - text: 冬至                      ○
+  - text: 处暑            ○
+  - text: 白露           ○
+  - text: 秋分          ○
+  - text: 寒露         ○
+  - text: 霜降        ○
+  - text: 立冬       ○
+  - text: 小雪      ○
+  - text: 大雪     ○
+  - text: 冬至    ○
   - text: 小寒   ○
   - text: 大寒  ○
     
