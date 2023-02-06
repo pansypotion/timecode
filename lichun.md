@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: 0204
+permalink: lichun
 ---
 
 #
