@@ -3,8 +3,6 @@ layout: default
 permalink: lichun
 ---
 
-#
-
 ## 立春
 
 ● ● ● ○ ○ ● ○ ○ ● ○ ● ● ● ○ ○ ○ ● ○ ○ ○ ○ ○ ○ ○
