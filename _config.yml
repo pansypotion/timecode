@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 拾光密码
+title: 拾光秘码
 description: > # this means to ignore newlines until "baseurl:"
   A minimalistic theme for Jekyll, based on hack.css
 repository: https://github.com/pansypotion/treasurehunt
