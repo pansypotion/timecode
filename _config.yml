@@ -31,6 +31,7 @@ navigation:
   - text: 立春 ●
     url: /lichun
   - text: 雨水  ○
+    url: /yushui
   - text: 惊蛰   ○
   - text: 春分    ○
   - text: 清明     ○
