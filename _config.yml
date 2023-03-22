@@ -34,7 +34,8 @@ navigation:
     url: /yushui
   - text: 惊蛰   ●
     url: /jingzhe
-  - text: 春分    ○
+  - text: 春分    ●
+    url: /chunfen
   - text: 清明     ○
   - text: 谷雨      ○
   - text: 立夏       ○
